@@ -59,6 +59,8 @@ h2{
         font-size: 3rem;
         padding-bottom: 5rem;
     }
+    body{
+        font-size:1.1rem;}
     .img-box img{
     height: 13rem;
     }
