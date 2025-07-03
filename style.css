@@ -26,7 +26,7 @@ h2{
 .section, .img{
     display: flex;
     flex-wrap: wrap;
-    gap: 4rem;
+    gap: 2rem;
     justify-content: center;
     align-items: center;
 }
