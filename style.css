@@ -26,7 +26,7 @@ h2{
 .section, .img{
     display: flex;
     flex-wrap: wrap;
-    gap: 6rem;
+    gap: 4rem;
     justify-content: center;
     align-items: center;
 }
@@ -61,8 +61,12 @@ h2{
     }
     body{
         font-size:1.1rem;}
+    h2{
+        font-size:1.5rem;
+    }
     .img-box img{
     height: 13rem;
+        border-radius:1rem;
     }
     .simple-talks{
         width: 25rem;
